@@ -14,16 +14,63 @@ body {
 
 }
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
 .design {
   background-image: url("../images/the-flatiron-building.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
+/* Lists & Anchors */
+
+ul li {
+  list-style-type: none;
+  padding: 5px;
+}
+
+ul li a {
+
+  color: white;
+  font-size: 18px;
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+
 /* Text Styles */
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+.design h3 {
+  color: white;
+}
+
+
+/* Footer */
+
+.foot  {
+  text-align: left;
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+}
+.foot a {
+  color: white;
+}
