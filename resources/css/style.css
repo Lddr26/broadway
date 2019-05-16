@@ -1,0 +1,29 @@
+/* Body */
+
+body {
+  text-align: center;
+  font-family: Helvetica,sans-serif;
+}
+
+/* Images */
+
+.head {
+  background-image: url("../images/the-flatiron-building.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.design {
+  background-image: url("../images/the-flatiron-building.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+/* Text Styles */
